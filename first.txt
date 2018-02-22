@@ -1,3 +1,4 @@
 this is first job for ssh
 this is my second commit
 this is to show the merge in adifferent way
+to show how stash works
